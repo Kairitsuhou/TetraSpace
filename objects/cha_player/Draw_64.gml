@@ -1,0 +1,1 @@
+draw_text(50,50,character_state.curr_state_name)
